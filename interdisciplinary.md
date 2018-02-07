@@ -141,7 +141,7 @@ Closed collections:
 <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;"><a style="font-size: 13px;" href="http://trac.syr.edu" target="_blank" rel="noopener">TracFed</a></p>
 <p style="text-align: center;"><strong>Week  4 – Interdisciplinary Legal Research :  Data vs. Theory (II)</strong></p>
 <p style="text-align: center;"><strong>JGH – Room 646, Thursday, February 8, from 12:10 – 1:10 PM.</strong></p>
-Instructors: <span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">Alice Izumo</span>
+__Instructors: <span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">Alice Izumo</span>__
 
 <strong>Question 1</strong>
 
