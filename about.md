@@ -4,8 +4,34 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).
+Week  4 – Interdisciplinary Legal Research :  Data vs. Theory (II)</strong></p>
+<p style="text-align: center;"><strong>JGH – Room 646, Thursday, February 8, from 12:10 – 1:10 PM.</strong></p>
+Instructors: <span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">Alice Izumo</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lacinia molestie vehicula. Cras non semper magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam hendrerit turpis sit amet est blandit sodales. Morbi ut erat ut ante ornare viverra fringilla a nibh. Proin nec semper velit, sollicitudin rutrum metus. Duis in sapien lacinia nunc consequat auctor sed non eros. Duis ultricies nec tortor auctor elementum. Cras arcu nibh, fermentum sed placerat eu, fringilla eget ipsum. Nullam imperdiet tellus eget malesuada cursus. Donec interdum mattis purus in venenatis.
+<strong>Question 1</strong>
 
-Maecenas viverra a quam ac laoreet. Sed a libero in odio faucibus viverra. Aliquam imperdiet justo non nulla fermentum, ac semper nisi molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam nec nisl sit amet massa venenatis condimentum id et purus. Vestibulum a aliquam dui. Fusce ac libero eget ipsum posuere finibus sed vitae tellus. 
+You just had your first meeting with a client from El Salvador who is applying for asylum in the U.S.  Your client is applying <strong>affirmatively</strong> through an asylum officer at U.S. Citizenship and Immigration Services, which is part of the Department of Homeland Security.  You have already researched the relevant statutes, regulations, and cases to assess the strength of his legal claim.  In addition, you would like to gather some data and statistics.
+
+Source for Question 1:
+
+Department of Homeland Security, “Immigration Data &amp; Statistics,” <a href="https://www.dhs.gov/immigration-statistics">https://www.dhs.gov/immigration-statistics</a>
+<ol>
+ 	<li>a. How many affirmative applications were <u>filed</u> by people from El Salvador in 2016?  What percent of all affirmative applications do they account for?</li>
+ 	<li>.b. Have those numbers increased in the past few years?</li>
+ 	<li>.c. Among the affirmative application cases <u style="font-family: inherit; font-style: inherit; font-weight: inherit;">completed</u><span style="font-size: 13px;"> in 2016, what was the outcome for those filed by people from El Salvador (granted, denied, etc.)?</span></li>
+ 	<li>.d. Does this information help you advise your client? If so, how?</li>
+</ol>
+<strong>Question 2</strong>
+
+It is now a couple years later.  Unfortunately, the asylum officer did not grant your client asylum; instead, she referred your client’s case to an immigration judge (IJ).  Your client is now applying for asylum <strong>defensively</strong> in removal (deportation) proceedings in Immigration Court, which is part of the Department of Justice’s Executive Office for Immigration Review.
+
+Sources for Question 2:
+<ul>
+ 	<li>Department of Justice, Executive Office for Immigration Review, “Statistics and Publications,” <a href="https://www.justice.gov/eoir/statistics-and-publications">https://www.justice.gov/eoir/statistics-and-publications</a></li>
+ 	<li>Syracuse University, Transactional Records Access Clearinghouse (TRAC), “TRAC Immigration Tools,” <a href="http://trac.syr.edu/phptools/reports/reports.php?layer=immigration&amp;report_type=tool">http://trac.syr.edu/phptools/reports/reports.php?layer=immigration&amp;report_type=tool</a></li>
+</ul>
+<p style="padding-left: 30px;">2.a. How many defensive applications did the Immigration Courts receive from people from El Salvador in 2016?  What percent of all defensive applications do they account for?</p>
+<p style="padding-left: 30px;">2.b. Among the defensive application cases completed in 2016, what was the outcome for those filed by people from El Salvador (granted, denied, etc.)?</p>
+<p style="padding-left: 30px;">2.c. Can you find information about individual immigration judges, such as the rate at which they grant asylum?</p>
+<p style="padding-left: 30px;">2.d. Does this information help you advise your client? If so, how?</p>
+<p style="text-align: center;">
