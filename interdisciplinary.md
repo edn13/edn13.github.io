@@ -141,8 +141,10 @@ Closed collections:
 <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;"><a style="font-size: 13px;" href="http://trac.syr.edu" target="_blank" rel="noopener">TracFed</a></p>
 <p style="text-align: center;"><strong>Week  4 – Interdisciplinary Legal Research :  Data vs. Theory (II)</strong></p>
 <p style="text-align: center;"><strong>JGH – Room 646, Thursday, February 8, from 12:10 – 1:10 PM.</strong></p>
-__Instructors: <span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">Alice Izumo</span>__
 
+Instructor: Alice Izumo; Dana
+
+Topics: Gov docs
 <strong>Question 1</strong>
 
 You just had your first meeting with a client from El Salvador who is applying for asylum in the U.S.  Your client is applying <strong>affirmatively</strong> through an asylum officer at U.S. Citizenship and Immigration Services, which is part of the Department of Homeland Security.  You have already researched the relevant statutes, regulations, and cases to assess the strength of his legal claim.  In addition, you would like to gather some data and statistics.
