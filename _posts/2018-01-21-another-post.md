@@ -1,5 +1,5 @@
 ---
-layout: Introducing Interdisciplinary Rsearch
+layout: post
 title:  "Interdisciplinary Research!"
 date:   2018-01-21
 categories: [ one, two, three ]
