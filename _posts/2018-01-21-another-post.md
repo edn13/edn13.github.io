@@ -5,9 +5,9 @@ date:   2018-01-21
 categories: [ one, two, three ]
 ---
 Syllabus
-</strong><strong>Interdisciplinary Research Workshop for Law School Students
-</strong><strong>Spring 2018</strong></h3>
-<strong>Goals</strong>
+__Interdisciplinary Research Workshop for Law School Students__
+__Spring 2018__
+__Goals__
 
 This workshop offers a systematic approach to finding information in today’s inter-disciplinary digital environment, focusing on the complex relationship between research and technology.  It is an introduction to the multiple facets of legal research, which often requires familiarity with research beyond finding statutes, cases, and administrative rules and regulations.  We will touch upon factual investigation, literature research, and of course, ways to manage all this information, whether you work alone on a project or as a team member.
 
