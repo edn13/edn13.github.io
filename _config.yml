@@ -3,10 +3,10 @@
 # This config file is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. If you find yourself editing this file very often, consider using Jekyll's data files feature for the data you need to update frequently.
 
 # Site settings
-title:            Lorem Ipsum
-email:            example@example.com
-description:      Lorem ipsum dolor sit amet...
-url:              ''
+title:            Legal Research 4Life
+email:            edn13@columbia.edu
+description:      The next step after Legal Research 101
+url:              http://blogs.law.columbia.edu/legalresearch101/''
 baseurl:          ''
 
 twitter_username: mariinyrop
