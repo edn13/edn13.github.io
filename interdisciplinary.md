@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Interdisciplinary Legal Research
+permalink: /interdisciplinary/
 ---
 
 Week  4 – Interdisciplinary Legal Research :  Data vs. Theory (II)</strong></p>
