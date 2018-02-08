@@ -142,10 +142,10 @@ Closed collections:
 <p style="text-align: center;"><strong>Week  4 – Interdisciplinary Legal Research :  Data vs. Theory (II)</strong></p>
 <p style="text-align: center;"><strong>JGH – Room 646, Thursday, February 8, from 12:10 – 1:10 PM.</strong></p>
 
-Instructor: Alice Izumo; Dana
+__Instructor: Alice Izumo; Dana__
 
 Topics: Gov docs
-<strong>Question 1</strong>
+__Question 1__
 
 You just had your first meeting with a client from El Salvador who is applying for asylum in the U.S.  Your client is applying <strong>affirmatively</strong> through an asylum officer at U.S. Citizenship and Immigration Services, which is part of the Department of Homeland Security.  You have already researched the relevant statutes, regulations, and cases to assess the strength of his legal claim.  In addition, you would like to gather some data and statistics.
 
@@ -171,7 +171,9 @@ Sources for Question 2:
 <p style="padding-left: 30px;">2.b. Among the defensive application cases completed in 2016, what was the outcome for those filed by people from El Salvador (granted, denied, etc.)?</p>
 <p style="padding-left: 30px;">2.c. Can you find information about individual immigration judges, such as the rate at which they grant asylum?</p>
 <p style="padding-left: 30px;">2.d. Does this information help you advise your client? If so, how?</p>
-<p style="text-align: center;"><strong>Week 5 – Interdisciplinary Legal Research :  Data vs. Theory (III)</strong></p>
+<a href="http://blogs.law.columbia.edu/legalresearch101/files/2018/02/Interdisciplinary-Workshop-2.8.18-Slides.pdf" target="_blank" rel="noopener">Ppt presentation</a>
+
+__Week 5 – Interdisciplinary Legal Research :  Data vs. Theory (III)__
 <p style="text-align: center;"><strong>JGH – Room 646, Thursday, February 15, from 12:10 – 1:10 PM.</strong></p>
 Instructors: <span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">  </span><span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 300;">TBA  &amp; </span>Dana
 Topics:
